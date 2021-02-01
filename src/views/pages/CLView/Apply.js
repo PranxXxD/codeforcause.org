@@ -65,7 +65,7 @@ function Apply({ className, ...rest }) {
                 fontWeight: 700
               }}
             >
-              Lead a community at your campus
+              "Lead a community at your campus"
             </Typography>
             <Typography
               variant="h2"
